@@ -1,3 +1,7 @@
+# Angular to JSReport
+
+This is a simple project that shows how easy is to download a JSReport PDF from an Angular Application.
+
 # JSReportSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
